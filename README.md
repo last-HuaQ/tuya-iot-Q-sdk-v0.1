@@ -4,11 +4,12 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 For more information, please check Tuya Developer Website.
 
 
-自动宠物喂食器
+Tuya SDK 自动宠物喂食器
 ====
 一、开发项目名称
 -------
-咪咪自动喂食计划一代
+咪咪自动喂食计划1.0
+
 二、项目开发目的
 ------
 >1.解决家养宠物的喂食问题。现在越来越多的年轻人过着朝九晚五的生活，从而缺少了细心照顾宠物的时间，虽然养了宠物，但是在照顾它们时出现了困难，因此需要借助科技的力量做到不耽误工作也能给与宠物一定的照顾。
